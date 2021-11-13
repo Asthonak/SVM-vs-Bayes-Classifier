@@ -1,0 +1,5 @@
+number of faces tested: 266
+male correct: 78
+female correct: 61
+total correct: 139
+percentage: 0.522556
